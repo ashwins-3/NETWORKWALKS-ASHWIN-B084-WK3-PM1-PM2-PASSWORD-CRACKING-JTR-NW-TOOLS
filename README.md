@@ -62,14 +62,20 @@ While attempting Module 1 on Windows, running `john.exe` through the **Johnny GU
 
 ## 📂 Screenshots
 
-| File | Description |
-|---|---|
-| `01_hash_extracted_onlinehashcrack.png` | PDF hash extracted via online hash extractor tool |
-| `02_flag_pdf_unlocked.png` | Locked PDF successfully opened with cracked password (flag captured) |
-| `03_networkwalks_password_cracker_result.png` | Networkwalks Password Cracker tool — successful match |
-| `04_jtr_kali_cracked_password1.png` | JTR on Kali Linux — cracked `password1` |
-| `05_jtr_kali_cracked_1qaz2wsx.png` | JTR on Kali Linux — cracked `1qaz2wsx` |
+### Hash extracted from locked PDF
+![Hash extracted via OnlineHashCrack](screenshots/01_hash_extracted_onlinehashcrack.png)
 
+### Locked PDF successfully unlocked with cracked password
+![Flag PDF unlocked](screenshots/02_flag_pdf_unlocked.png)
+
+### Networkwalks Password Cracker — successful match
+![Networkwalks Password Cracker result](screenshots/03_networkwalks_password_cracker_result.png)
+
+### JTR on Kali Linux — cracked `password1`
+![JTR Kali cracked password1](screenshots/04_jtr_kali_cracked_password1.png)
+
+### JTR on Kali Linux — cracked `1qaz2wsx`
+![JTR Kali cracked 1qaz2wsx](screenshots/05_jtr_kali_cracked_1qaz2wsx.png)
 ---
 
 ## ⚖️ Disclaimer
