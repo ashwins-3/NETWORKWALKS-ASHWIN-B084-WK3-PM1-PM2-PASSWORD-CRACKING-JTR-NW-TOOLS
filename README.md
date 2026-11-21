@@ -2,7 +2,7 @@
 
 Recovering a password-protected PDF's password using dictionary attacks, with John the Ripper (CLI on Kali Linux) and the Networkwalks Hash Calculator / Password Cracker web tools.
 
-`Skill: Cybersecurity` `Skill: Password Auditing` `Tool: John the Ripper` `Tool: Networkwalks Hash Calculator` 
+`Tool: John the Ripper` `Tool: Networkwalks Hash Calculator` 
 
 ---
 
